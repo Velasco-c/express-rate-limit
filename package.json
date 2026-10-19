@@ -1,0 +1,25 @@
+{
+  "name": "express-rate-limit",
+  "version": "1.0.0",
+  "description": "Basic implementation of HTTP request rate limiting in Express to control the number of requests a client can make within a given time interval.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Velasco-c/express-rate-limit.git"
+  },
+  "keywords": [],
+  "author": "Velasco-c",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Velasco-c/express-rate-limit/issues"
+  },
+  "homepage": "https://github.com/Velasco-c/express-rate-limit#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "express-rate-limit": "^8.7.1"
+  }
+}
