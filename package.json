@@ -1,5 +1,5 @@
 {
-  "name": "express-rate-limit",
+  "name": "anime-catalog-api",
   "version": "1.0.0",
   "description": "REST API for an in-memory anime catalog with Express request rate limiting.",
   "main": "src/app.js",
@@ -11,7 +11,18 @@
     "type": "git",
     "url": "git+https://github.com/Velasco-c/express-rate-limit.git"
   },
-  "keywords": [],
+  "keywords": [
+    "anime",
+    "catalog",
+    "express",
+    "express-rate-limit",
+    "rate-limit",
+    "rate-limiting",
+    "rest-api",
+    "nodejs",
+    "javascript",
+    "middleware"
+  ],
   "author": "Velasco-c",
   "license": "ISC",
   "type": "module",
